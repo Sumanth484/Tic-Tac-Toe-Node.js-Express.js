@@ -29,3 +29,26 @@ Launch Git Bash from Windows and navigate to your created folder, then run:
 
 ```sh
 git init
+```
+### 3. Clone the Repository
+
+Clone the repository by running:
+
+```sh
+git clone https://github.com/Sumanth484/tic-tac-toe.git
+cd tic-tac-toe/
+```
+### 4. Install Dependencies
+
+Inside the project directory, install the necessary dependencies:
+
+```sh
+npm install express
+```
+### 5. Run the Application
+
+To start the application, run:
+
+```sh
+node index.js
+```
