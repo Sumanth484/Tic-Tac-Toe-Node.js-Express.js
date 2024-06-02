@@ -52,3 +52,5 @@ To start the application, run:
 ```sh
 node index.js
 ```
+
+By default, the application will be accessible at https://localhost:3000
