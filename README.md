@@ -19,18 +19,7 @@ Download and install Node.js for Windows from the official website: [Node.js](ht
 
 ## Setup Instructions
 
-### 1. Create a Folder
-
-Create a folder with any name of your choice.
-
-### 2. Initialize Git Repository
-
-Launch Git Bash from Windows and navigate to your created folder, then run:
-
-```sh
-git init
-```
-### 3. Clone the Repository
+### 1. Clone the Repository
 
 Clone the repository by running:
 
@@ -38,14 +27,14 @@ Clone the repository by running:
 git clone https://github.com/Sumanth484/tic-tac-toe.git
 cd tic-tac-toe/
 ```
-### 4. Install Dependencies
+### 2. Install Dependencies
 
 Inside the project directory, install the necessary dependencies:
 
 ```sh
 npm install express
 ```
-### 5. Run the Application
+### 3. Run the Application
 
 To start the application, run:
 
